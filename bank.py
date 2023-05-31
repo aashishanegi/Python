@@ -36,8 +36,4 @@ def withdraw():
     
     
     
-choice=int(input("Enter a choice of Deposit(1) or Withdraw(2)"))
-if choice==1:
-    deposit()
-if choice==2:
-    withdraw()
+
